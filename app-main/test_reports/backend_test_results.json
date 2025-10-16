@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-10-15T11:40:36.669675",
+  "total_tests": 23,
+  "passed_tests": 23,
+  "success_rate": 100.0,
+  "test_results": [
+    {
+      "test": "Root API Endpoint",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Donor Registration",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Recipient Registration",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Hospital Registration",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Invalid Login",
+      "success": true,
+      "details": "Status: 401"
+    },
+    {
+      "test": "Auth Me - Donor",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Create Donor Profile",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Donor Profile",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Update Donor Profile",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Create Recipient Profile",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Recipient Profile",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Update Recipient Profile",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Create Hospital Profile",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Hospital Profile",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Donor Potential Matches",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Recipient Potential Matches",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Hospital Get All Donors",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Hospital Get All Recipients",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Create Match",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Donor Get Matches",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Recipient Get Matches",
+      "success": true,
+      "details": "Status: 200"
+    },
+    {
+      "test": "Donor Access Control - Hospital Profile",
+      "success": true,
+      "details": "Status: 403"
+    },
+    {
+      "test": "Recipient Access Control - Donor Profile",
+      "success": true,
+      "details": "Status: 403"
+    }
+  ]
+}
